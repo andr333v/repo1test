@@ -11,6 +11,7 @@ namespace TestRepo1
 
         private void DoNothing()
         {
+            Console.WriteLine("do nothing");
         }
     }
 }
