@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace TestRepo1
 {
@@ -11,6 +7,10 @@ namespace TestRepo1
         static void Main(string[] args)
         {
             Console.WriteLine("Repo 1 Works !!!");
+        }
+
+        private void DoNothing()
+        {
         }
     }
 }
