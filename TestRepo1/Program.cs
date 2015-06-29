@@ -13,5 +13,10 @@ namespace TestRepo1
         {
             Console.WriteLine("do nothing");
         }
+
+        private void DoSomething()
+        {
+            Console.WriteLine("do something");
+        }
     }
 }
